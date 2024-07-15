@@ -1,4 +1,4 @@
-![Happy Emoji](https://media.giphy.com/media/YOUR_ANIMATED_GIF_LINK_HERE/giphy.gif)
+
 <h1 align="center">Hi 👋, I'm Sourav Samanta</h1>
 <h3 align="center">I'm a Data Scientist at AIML LABS PVT.LTD</h3>
 
