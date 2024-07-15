@@ -1,3 +1,4 @@
+![Happy Emoji](https://media.giphy.com/media/YOUR_ANIMATED_GIF_LINK_HERE/giphy.gif)
 <h1 align="center">Hi 👋, I'm Sourav Samanta</h1>
 <h3 align="center">I'm a Data Scientist at AIML LABS PVT.LTD</h3>
 
@@ -8,18 +9,28 @@
 - 🌱 I’m currently learning **Generative AI .**
 
 - 💬 Ask me about **Data Science Related Work**
-- 👉I have technical experience and interest in:
-- Deep Learning
-- Machine Learning
-- Computer vision
-- Natural Language Processing
-- MLOps
-- Generative AI
+## 👉I have technical experience and interest in:
+<ul>
+  <li>Deep Learning</li>
+  <li>Machine Learning</li>
+  <li>Computer vision</li>
+  <li>Natural Language Processing</li>
+  <li>MLOps</li>
+  <li>Generative AI</li>
+</ul>
+
 
 
 - 📫 How to reach me **souravsamanta.aiml@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
+  
+## My Hobbies and interests:
+<ul>
+  <li>Traveling</li>
+  <li>Singing</li>
+  <li>Coding</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
