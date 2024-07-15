@@ -44,10 +44,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/souravsamanta"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="souravsamanta" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourav-samanta1&show_icons=true&locale=en&layout=compact" alt="sourav-samanta1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourav-samanta1&show_icons=true&locale=en" alt="sourav-samanta1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-samanta1&" alt="sourav-samanta1" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourav-samanta1&show_icons=true&locale=en&layout=compact" alt="sourav-samanta1" height="150"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sourav-samanta1&show_icons=true&locale=en" alt="sourav-samanta1" height="150"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-samanta1" alt="sourav-samanta1" height="150"/>
+</p>
 
 
